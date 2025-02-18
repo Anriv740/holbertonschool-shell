@@ -1,2 +1,2 @@
 #!/bin/bash
-echo <lists all files in long format> ls_cwd_content
+ls -la | cat > ls_cwd_content
