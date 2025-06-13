@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Path | tr ':''/n' | grep / | wc -1
+echo Path | tr ':' '/n' | grep / | wc -1
